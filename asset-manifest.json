@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/viajes-react/sign-up/static/css/main.cc778667.css",
-    "main.js": "/viajes-react/sign-up/static/js/main.c1c014ff.js",
-    "static/media/video-1.mp4": "/viajes-react/sign-up/static/media/video-1.59e75226d30ad48f9ede.mp4",
-    "static/media/img-2.jpg": "/viajes-react/sign-up/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
-    "static/media/img-4.jpg": "/viajes-react/sign-up/static/media/img-4.a31875b76d39f6458a6e.jpg",
-    "static/media/img-3.jpg": "/viajes-react/sign-up/static/media/img-3.6d683c0ee6824af7961a.jpg",
-    "static/media/img-7.jpg": "/viajes-react/sign-up/static/media/img-7.dfeef5257053ba651d89.jpg",
-    "static/media/img-9.jpg": "/viajes-react/sign-up/static/media/img-9.f97f588f3670715d01b2.jpg",
-    "static/media/img-8.jpg": "/viajes-react/sign-up/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "index.html": "/viajes-react/sign-up/index.html",
-    "main.cc778667.css.map": "/viajes-react/sign-up/static/css/main.cc778667.css.map",
-    "main.c1c014ff.js.map": "/viajes-react/sign-up/static/js/main.c1c014ff.js.map"
+    "main.css": "/viajes-react/static/css/main.d42f8df0.css",
+    "main.js": "/viajes-react/static/js/main.6320d616.js",
+    "static/media/video-1.mp4": "/viajes-react/static/media/video-1.59e75226d30ad48f9ede.mp4",
+    "static/media/img-2.jpg": "/viajes-react/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-4.jpg": "/viajes-react/static/media/img-4.a31875b76d39f6458a6e.jpg",
+    "static/media/img-3.jpg": "/viajes-react/static/media/img-3.6d683c0ee6824af7961a.jpg",
+    "static/media/img-7.jpg": "/viajes-react/static/media/img-7.dfeef5257053ba651d89.jpg",
+    "static/media/img-9.jpg": "/viajes-react/static/media/img-9.f97f588f3670715d01b2.jpg",
+    "static/media/img-8.jpg": "/viajes-react/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/viajes-react/index.html",
+    "main.d42f8df0.css.map": "/viajes-react/static/css/main.d42f8df0.css.map",
+    "main.6320d616.js.map": "/viajes-react/static/js/main.6320d616.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc778667.css",
-    "static/js/main.c1c014ff.js"
+    "static/css/main.d42f8df0.css",
+    "static/js/main.6320d616.js"
   ]
 }
